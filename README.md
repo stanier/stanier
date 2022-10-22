@@ -6,7 +6,7 @@ I don't like talking about myself.
 
 ## What do I do?
 
-I am a junior Linux Systems administrator.
+I am a junior HPC Linux Systems administrator.
 
 ## What does that mean?
 
@@ -24,7 +24,7 @@ I can google better than the average bear.
 
 Those are old coding projects from high school.  We didn't really have STEM options where I grew up (thanks North Carolina Board of Education,) so instead I just coded whatever I could think of.  I may not have succeeded in my original goal with many of these projects, but I learned more than the public school system could ever teach me.
 
-I don't really intend to revisit any of these projects, I just keep them up so I can cringe at my old code.  I guess you can look at it too, if you want.
+I don't really intend to revisit any of these projects, I just keep them up so I can cringe at my old code.  I guess you can look at it too, if you want to bleed from your eyeholes.
 
 ## Favorite programming/scripting languages
 
