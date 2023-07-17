@@ -6,11 +6,7 @@ I don't like talking about myself.
 
 ## What do I do?
 
-I am a junior HPC Linux Systems administrator.
-
-## What does that mean?
-
-I can google better than the average bear.
+I am an HPC Linux Systems administrator.
 
 ## What do you specialize in
 
@@ -18,6 +14,13 @@ I can google better than the average bear.
 * Virtualization
 * Automation
 * Awkward attempts at sarcasm
+
+## What interests you?
+
+* Nature
+* Surrealism
+* Music
+* Societal problems
 
 ## What're all these repos that seem to be abandoned?
 
@@ -49,4 +52,12 @@ I don't really intend to revisit any of these projects, I just keep them up so I
 * My blog when I eventually get around to finishing it
 * A book from the library
 
-:q
+## Music you should listen to
+
+* The Woods by Cosmo Sheldrake
+* Out of Vogue by Fever Dolls
+* Strung Out Johnny by Iggie Pop
+* One Night by Matthew Koma
+* Letter from God to Man by Dan Le Sac vs Scroobius Pip
+
+:wq!
