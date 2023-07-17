@@ -16,13 +16,12 @@ I can google better than the average bear.
 
 * HPC
 * Virtualization
-* Admiring doorknobs
 * Automation
-* ~~Licking doorknobs~~ HR said I can't do this anymore
+* Awkward attempts at sarcasm
 
 ## What're all these repos that seem to be abandoned?
 
-Those are old coding projects from high school.  We didn't really have STEM options where I grew up (thanks North Carolina Board of Education,) so instead I just coded whatever I could think of.  I may not have succeeded in my original goal with many of these projects, but I learned more than the public school system could ever teach me.
+Those are old coding projects from my middle/high school days.  They didn't have the resources to teach me code, so I taught myself through over-ambitious projects.
 
 I don't really intend to revisit any of these projects, I just keep them up so I can cringe at my old code.  I guess you can look at it too, if you want to bleed from your eyeholes.
 
