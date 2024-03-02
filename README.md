@@ -68,7 +68,7 @@ I don't really intend to revisit any of these projects, I just keep them up so I
 * Justice's ✝ album (vinyl master preferred)
 * Joywave's Live album
 * The Bifrost Incident by the Mechanisms
-* ~\\\Wings///~ by Rav
+* \~\\\Wings///\~ by Rav
 * Stepping Stone by Lemaitre and Mark Johns
 * Alone by Alvin Risk
 * The Veldt by deadmau5
