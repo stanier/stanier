@@ -54,10 +54,23 @@ I don't really intend to revisit any of these projects, I just keep them up so I
 
 ## Music you should listen to
 
+* Everybody's Free (To Wear Sunscreen) by Quindon Tarver and Josh Abrahams
+* Dangerous by Big Data and Joywave
+* Rule #3 - Paperwork by Fish in a Birdcage
 * The Woods by Cosmo Sheldrake
 * Out of Vogue by Fever Dolls
+* 1000 Words by Scroobius Pip
 * Strung Out Johnny by Iggie Pop
+* RATA-TATA by Royal Republic
 * One Night by Matthew Koma
+* Take Back Tomorrow by GoldFish
 * Letter from God to Man by Dan Le Sac vs Scroobius Pip
+* Justice's ✝ album (vinyl master preferred)
+* Joywave's Live album
+* The Bifrost Incident by the Mechanisms
+* ~\\\Wings///~ by Rav
+* Stepping Stone by Lemaitre and Mark Johns
+* Alone by Alvin Risk
+* The Veldt by deadmau5
 
 :wq!
