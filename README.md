@@ -8,14 +8,14 @@ I don't like talking about myself.
 
 I am an HPC Linux Systems administrator.
 
-## What do you specialize in
+## What do I specialize in
 
 * HPC
 * Virtualization
 * Automation
 * Awkward attempts at sarcasm
 
-## What interests you?
+## What interests me?
 
 * Nature
 * Surrealism
