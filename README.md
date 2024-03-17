@@ -28,6 +28,10 @@ Those are old coding projects from my middle/high school days.  They didn't have
 
 I don't really intend to revisit any of these projects, I just keep them up so I can cringe at my old code.  I guess you can look at it too, if you want to bleed from your eyeholes.
 
+## What're you working on now?
+
+You'll see, maybe...
+
 ## Favorite programming/scripting languages
 
 * Golang
@@ -51,6 +55,15 @@ I don't really intend to revisit any of these projects, I just keep them up so I
 * [SiFive's HiFive: An Arduino-like dev board with RISC-V and Espressif](https://www.sifive.com/boards/hifive1-rev-b)
 * My blog when I eventually get around to finishing it
 * A book from the library
+
+## Topics to consider
+
+* Time and resource investment/prioritization
+* Perspective and identity boundaries
+* Qualitative awareness of effort effectiveness
+* Gravity, granularity and flexibility of role definitions
+* Humanity's trust in technology, science, nature, and itself
+* Science's depiction/understanding of nature
 
 ## Music you should listen to
 
