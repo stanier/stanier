@@ -12,10 +12,11 @@ I am an HPC Linux Systems administrator.
 
 ## What do I specialize in
 
-* HPC
+* Systems administration
 * ~~Virtualization~~
 * ~~Automation~~
 * Awkward attempts at sarcasm
+* ?*
 
 ## What interests me?
 
@@ -26,7 +27,7 @@ I am an HPC Linux Systems administrator.
 
 ## What're you working on now?
 
-Things
+Things*
 
 ## Favorite languages
 
@@ -66,5 +67,7 @@ Things
 * Stepping Stone by Lemaitre and Mark Johns
 * Alone by Alvin Risk
 * The Veldt by deadmau5
+
+\* s​o﻿m​e﻿t​h﻿i​n
 
 :wq!
